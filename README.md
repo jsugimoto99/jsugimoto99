@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+#### My name is Jeremy Sugimoto I am a Masters Student at the University of Calgary currently working on completing a one year Software MEng program. I am interested in Fullstack Development, Machine Learning and Software Architecture.
+
+LinkedIn: www.linkedin.com/in/jeremy-sugimoto
+
 <!--
 **jsugimoto99/jsugimoto99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
